@@ -1,0 +1,55 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Smokum&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rock+3D&display=swap');
+a {
+    font-size: 50px;
+    text-decoration: none;
+    font-family: 'Shadows Into Light';
+    margin-left: 50px;
+    font-weight: bolder;
+
+    border: solid pink;
+    color: white;
+}
+a:hover {
+    color: pink;
+    font-size: 60px;
+    font-weight: bolder;
+    border: solid red 1px;
+    background-color: green;    
+}
+
+hr {
+    color: red;
+    
+}
+body {
+ background-image: url("bg-mint.jpg");
+ background-color: #cccccc;
+ background-size: cover;
+ background-repeat: no-repeat;
+
+}
+#uptime {
+    /* owner mint.css */
+    font-family: Ubuntu Mono;
+    padding-left: 100px;
+    color: black;
+    font-size: 50px;
+
+}
+
+#up
+    /* owner mint.css */
+    color: green;
+    font-weight: 100;
+    font-family: Ubuntu Mono;
+
+}
+hr {
+    position: relative;
+    height: 12px;
+    background: lightblue;
+}

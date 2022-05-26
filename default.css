@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:wght@700&display=swap');
+
+a {
+    font-size: 50px;
+    text-decoration: none;
+    font-family: ubuntu mono;
+    margin-left: 50px;
+    border: solid green;
+    color: white;
+}
+body {
+ background-image: url("bg.png");
+ background-color: #cccccc;
+ background-size: auto;
+ background-repeat: no-repeat;
+
+}
+#uptime {
+    /* owner mint.css */
+    font-family: Ubuntu Mono;
+    padding-left: 100px;
+    color: white;
+    font-size: 50px;
+
+}
+
+#uptime:hover {
+    /* owner mint.css */
+    font-size: 70px;
+    color: red;
+    animation-name: uptime;
+    animation-duration: 4s;
+    animation-direction: alternate;
+    animation: reverse;
+}
+
+#uptime_title {
+    /* owner mint.css */
+    color: green;
+    font-weight: 200;
+    font-family: Ubuntu Mono;
+
+}

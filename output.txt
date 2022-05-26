@@ -1,0 +1,13 @@
+nobody@ourserver 
+---------------- 
+OS: Ubuntu 20.04.4 LTS x86_64 
+Kernel: 5.4.0-113-generic 
+Uptime: 36 mins 
+Packages: 2887 (dpkg), 10 (snap) 
+Shell: sh 
+Resolution: 1024x768 
+Terminal: dashboard.py 
+CPU: Intel Core 2 Duo E6850 (2) @ 2.225GHz 
+GPU: Intel 4 Series Chipset 
+Memory: 1265MiB / 3896MiB 
+
